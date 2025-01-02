@@ -43,3 +43,8 @@ To configure Azure credentials, follow these steps:
 ## Azure Deployment Configuration
 
 For more details, refer to the [azure-deploy.yml](./azure-deploy.yml) file.
+
+## Deployed Website
+
+The website is deployed and can be accessed at the following link:
+https://purple-island-047478400.4.azurestaticapps.net/
