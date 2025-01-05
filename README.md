@@ -46,4 +46,4 @@ For more details, refer to the [azure-deploy.yml](./azure-deploy.yml) file.
 
 ## Live Website
 
-You can view the live website [here](https://purple-island-047478400.4.azurestaticapps.net/).
+You can view the live website [Simple Webiste. Click to see it...](https://purple-island-047478400.4.azurestaticapps.net/).
